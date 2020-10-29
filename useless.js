@@ -1,1 +1,2 @@
+alert("1");
 document.write('<!-- #redriddle irc.quakenet.org --><html><head><title>nothing was in her way</title><audio src="./stuff/mus1.mp3" autoplay loop></audio><LINK REL="stylesheet" TYPE="text/css" HREF="../styler.css" /></head><center><img src="screen2.jpg" border="0" usemap="#no"></center><map name="no"><area target="_blank" coords="180,194,342,202,349,595,161,595" shape="poly" href="solvetheriddle.htm"></map></html>');
